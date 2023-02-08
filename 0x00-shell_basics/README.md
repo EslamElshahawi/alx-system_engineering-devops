@@ -4,3 +4,4 @@
 3-listfiles : lists files and directorys in long format
 4-listmorefiles : lists all files and directories in long format
 5-listfilesdigitonly : lists all files with numeric UIDs and GIDs
+6-firstdirectory : creats My_first_directory in /tmp
