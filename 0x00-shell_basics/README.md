@@ -3,3 +3,4 @@
 2-bring_me_home : Changes your current directory to home
 3-listfiles : lists files and directorys in long format
 4-listmorefiles : lists all files and directories in long format
+5-listfilesdigitonly : lists all files with numeric UIDs and GIDs
