@@ -8,4 +8,5 @@
 7-everybody : gives execution permission to all
 8-James_Bond : give all permissions only to others
 9-John_Doe : make hello -rwxr-x-wx
+10-mirror_permissions : mirror permissions
 
