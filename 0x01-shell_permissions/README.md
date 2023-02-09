@@ -6,3 +6,5 @@
 5-execute : gives permission to the file owner to execute files
 6-multiple_permissions : giving execution permission to user and group and read only for others
 7-everybody : gives execution permission to all
+8-James_Bond : give all permissions only to others
+
