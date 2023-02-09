@@ -12,3 +12,4 @@
 11-lists : lists files in current and parent and /boot directories
 12-file_type : shows the type of file iamafile in /tmp
 13-symbolic_link : makes a symbolic link to bin/ls named __ls__
+14-copy_html : copies updated versions of .html files to the parent directory
