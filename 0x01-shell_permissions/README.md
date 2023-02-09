@@ -7,4 +7,5 @@
 6-multiple_permissions : giving execution permission to user and group and read only for others
 7-everybody : gives execution permission to all
 8-James_Bond : give all permissions only to others
+9-John_Doe : make hello -rwxr-x-wx
 
