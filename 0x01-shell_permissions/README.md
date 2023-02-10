@@ -9,4 +9,5 @@
 8-James_Bond : give all permissions only to others
 9-John_Doe : make hello -rwxr-x-wx
 10-mirror_permissions : mirror permissions
+11-directories_permissions : change all subdirectories to be executable
 
