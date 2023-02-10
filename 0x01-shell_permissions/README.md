@@ -10,4 +10,5 @@
 9-John_Doe : make hello -rwxr-x-wx
 10-mirror_permissions : mirror permissions
 11-directories_permissions : change all subdirectories to be executable
+12-directory_permissions : make my_dir with 751 permissions
 
